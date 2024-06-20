@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @Sona199607
-- 👀 I’m interested in Data Analytic ...
-- 🌱 I’m currently learning .python ,power bi,excel,sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytics,Data Visualization ...
+- 🌱 I’m currently learning .Programming Languages: Python (with libraries such as Pandas, NumPy, Matplotlib)
+BI Tools: Power BI
+Spreadsheets: Advanced Excel
+Databases: SQL
+
+- 💞️ I’m looking to collaborate on ...Predictive modeling and data analytics projects.
+Creating impactful data visualizations.
+Analyzing complex datasets to drive business decisions
+- 📫 How to reach me .[sonalborkar1996@gmail.com]..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Sona199607/Sona199607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
