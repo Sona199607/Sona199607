@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sona199607
 - 👀 I’m interested in Data Analytics,Data Visualization ...
-- 🌱 I’m currently learning .Programming Languages: Python (with libraries such as Pandas, NumPy, Matplotlib)
+- 🌱 I’m currently learning
+- .Programming Languages: Python (with libraries such as Pandas, NumPy, Matplotlib)
 BI Tools: Power BI
 Spreadsheets: Advanced Excel
 Databases: SQL
